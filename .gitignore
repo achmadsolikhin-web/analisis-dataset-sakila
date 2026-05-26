@@ -1,0 +1,17 @@
+.Rhistory
+.RData
+.Ruserdata
+
+*.Rproj.user
+
+_cache/
+cache/
+
+Thumbs.db
+
+*.log
+*.tmp
+
+_files/
+
+.Renviron
